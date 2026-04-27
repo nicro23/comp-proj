@@ -1,0 +1,21 @@
+- normal use case:
+int a = 1;
+int b = 2;
+int c;
+c = a + b;
+- empty:
+
+- normal use case(no newlines/no whitespace(except identifiers)
+int a=1;int b=2;int c;c=a+b;
+
+- all scannable tokens:
+int + for a
+int float string double bool char
++-/%*(){},;&&||<>=!
+for while if do return break continue end
+
+- non scannable tokens:
+’ “ ` ~ ? @ # $ ^ & _ - \ | [ ]
+- near identifiers:
+
+aint inta ‘int +int forint >int
