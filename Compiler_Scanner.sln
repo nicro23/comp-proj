@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicalAnalysis_ph1_logic", "LexicalAnalysis_ph1_logic\LexicalAnalysis_ph1_logic.csproj", "{B55B70C3-7AB1-4671-9BA0-852F95FD887F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55B70C3-7AB1-4671-9BA0-852F95FD887F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55B70C3-7AB1-4671-9BA0-852F95FD887F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55B70C3-7AB1-4671-9BA0-852F95FD887F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55B70C3-7AB1-4671-9BA0-852F95FD887F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CDD02F-4D3C-4E6C-8E45-DEF925D04881}
+	EndGlobalSection
+EndGlobal
